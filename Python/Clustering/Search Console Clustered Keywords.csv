@@ -1,0 +1,234 @@
+cluster,query,clicks,impressions,ctr,position
+0,does world market ship to canada,2,175,1.1%,8.8
+0,grey pullover,1,389,0.3%,7.2
+0,tee white,2,215,0.9%,2.7
+0,does wish ship to po box,1,19,5.3%,9.3
+0,tee coral,1,9,11.1%,3.2
+0,does wish deliver to po boxes,1,13,7.7%,3.4
+0,pixel 4 shipping time,1,9,11.1%,2.0
+0,nest return policy,3,106,2.8%,11.7
+0,pixelbook return policy,3,11,27.3%,2.7
+0,does wish ship to apo,1,6,16.7%,5.2
+0,world market ship to canada,1,102,1.0%,9.9
+1,cloud merchandise,2,19,10.5%,4.1
+1,cloud swag,1,4,25.0%,8.0
+2,t shirt apparel,1,129,0.8%,13.1
+2,apparel stores,2,164,1.2%,8.9
+2,apparel,1,4752,0.0%,21.0
+2,t-shirt apparel,1,10,10.0%,8.5
+2,shop apparel,3,99,3.0%,3.9
+2,apparel-store,1,18,5.6%,3.7
+2,store apparel,2,24,8.3%,2.3
+2,the apparel store,1,53,1.9%,9.7
+2,apparel store,22,1409,1.6%,4.4
+2,apparel orders,1,1,100.0%,12.0
+2,apparel shop,6,607,1.0%,6.1
+2,apparel for babies,1,6,16.7%,14.5
+3,dvg fam merch,1,509,0.2%,9.9
+3,dvg fam shop,1,156,0.6%,9.3
+3,dvg fam.shop,1,332,0.3%,8.9
+3,dvg family merch,2,43,4.7%,10.4
+3,dvg merch,2,415,0.5%,10.0
+3,dvg fam hoodie,1,13,7.7%,10.7
+3,dvg merchandise,3,48,6.3%,8.3
+4,firebase shirt,3,16,18.8%,5.0
+4,angular t shirt,1,5,20.0%,13.8
+4,flutter t shirt free,3,17,17.6%,4.2
+4,free gcp t-shirt,2,20,10.0%,5.4
+4,golang t shirt,1,38,2.6%,10.2
+4,flutter t-shirt,4,35,11.4%,3.7
+4,tensorflow t-shirt,2,22,9.1%,4.4
+4,local guide t shirt,2,24,8.3%,7.3
+4,tensorflow t shirt,4,67,6.0%,4.2
+4,gcp t-shirt,5,68,7.4%,3.0
+4,merchandise t shirt,1,88,1.1%,9.5
+4,tensorflow t shirt india,6,25,24.0%,2.2
+4,gcp t shirt,7,40,17.5%,2.8
+4,tensorflow shirt,9,34,26.5%,3.5
+4,flutter shirt,10,80,12.5%,4.4
+4,gsoc t shirt 2019,1,3,33.3%,6.7
+4,flutter t shirt,18,97,18.6%,3.5
+4,firebase t shirt,2,10,20.0%,2.1
+4,t shirt merchandising,1,31,3.2%,12.0
+5,merch kids,1,18,5.6%,5.7
+5,merchandise kids,2,13,15.4%,1.5
+5,kids merchandise,5,92,5.4%,1.5
+5,merchandise for kids,3,33,9.1%,2.3
+6,fx2 tracking,1,615,0.2%,11.2
+6,merchandise tracking,2,25,8.0%,1.5
+6,dpei tracking,3,70,4.3%,5.6
+7,c hoodie,1,13,7.7%,5.3
+7,grey hoodie,1,1935,0.1%,12.1
+7,zip hoodie black,1,190,0.5%,2.1
+7,hoodie unisex,1,6,16.7%,34.5
+7,hoodie shopping,1,5,20.0%,36.2
+7,pullover hoodie,2,166,1.2%,83.1
+7,black zipper hoodie,1,124,0.8%,6.3
+7,black hoodie unisex,2,14,14.3%,12.4
+7,hoodie merchandise,3,101,3.0%,8.2
+7,kubernetes hoodie,1,19,5.3%,9.7
+7,gcp hoodie,3,21,14.3%,3.4
+7,jazzybum hoodie,11,61,18.0%,2.1
+8,flat bag,1,63,1.6%,21.1
+8,lifestyle bag,1,2,50.0%,6.5
+8,canvas bag store,1,1,100.0%,12.0
+8,front bag,1,670,0.1%,2.9
+9,it shirts,1,49,2.0%,45.3
+9,shop t shirts online,1,25,4.0%,31.2
+9,merchandise t shirts,1,106,0.9%,11.2
+9,t shirts online shop,1,14,7.1%,59.3
+9,t-shirts & merchandise,1,9,11.1%,7.9
+9,t shirts store,1,44,2.3%,28.2
+9,cool chicago shirts,1,3,33.3%,62.0
+9,flutter shirts,1,16,6.3%,5.5
+9,store shirts,1,36,2.8%,8.4
+9,firebase t shirts,1,6,16.7%,2.2
+10,shop by brand,10,362,2.8%,3.2
+10,by brand,1,418,0.2%,6.6
+11,stylus pen with led light,2,19,10.5%,4.2
+11,led stylus pen,1,11,9.1%,5.2
+11,stylus pen with light,1,48,2.1%,9.5
+11,maze pen,5,243,2.1%,2.4
+11,how to pack a pen,1,12,8.3%,9.4
+11,pen with stylus and light,1,54,1.9%,3.2
+12,merchandise socks,1,32,3.1%,4.9
+12,socks merchandise,2,41,4.9%,6.2
+12,socks merch,1,25,4.0%,7.2
+13,reacticorns merch store,2,31,6.5%,6.1
+13,merch store,1,49,2.0%,14.1
+13,fanatics store,3,31,9.7%,97.0
+13,tumbler store,3,84,3.6%,5.7
+13,electronic accessories store,2,41,4.9%,20.5
+13,maze store,1,11,9.1%,43.8
+13,clothing store,2,26998,0.0%,40.6
+13,willne store,1,284,0.4%,8.9
+13,office store,1,368,0.3%,43.8
+13,merchandise store,13,991,1.3%,2.3
+13,flamingo merch store,1,280,0.4%,9.9
+13,sock store,1,188,0.5%,41.3
+13,apparal store,1,17,5.9%,3.6
+13,apparels store,5,206,2.4%,4.2
+13,f.r.i.e.n.d.s merchandise store,1,2,50.0%,32.0
+13,hyper merch store,1,31,3.2%,10.4
+14,bamboo phone,1,17,5.9%,11.8
+14,bamboo phone stand,1,106,0.9%,2.5
+14,phone stand,6,1805,0.3%,19.1
+14,wallet stand,2,59,3.4%,9.6
+15,mens microfleece,1,15,6.7%,25.5
+15,men's microfleece jacket,1,17,5.9%,3.0
+15,discovery jacket price,1,1,100.0%,13.0
+16,flutter tshirt,9,72,12.5%,5.4
+16,tshirt sale,1,44,2.3%,40.6
+16,tensorflow tshirt,9,44,20.5%,3.1
+16,gcp tshirt,5,21,23.8%,3.0
+16,tshirt store,1,226,0.4%,23.8
+17,dvgfam merch,1,15,6.7%,9.9
+17,its just a six merch,1,28,3.6%,6.8
+17,sorry karen merch,1,8,12.5%,10.0
+17,that youtub3 family merch,1,31,3.2%,10.9
+17,juneboys merch,1,84,1.2%,5.8
+17,jazzybum merch,778,1896,41.0%,1.2
+17,stadia merch,16,31,51.6%,2.5
+17,xpertthief merch,4,635,0.6%,8.3
+17,socksfor1 merch,2,94,2.1%,7.7
+17,rslash merch,2,121,1.7%,5.7
+17,youtbe merch,2,17,11.8%,2.0
+17,golang merch,2,68,2.9%,9.3
+17,graystillplays merch,4,118,3.4%,5.4
+17,youtub merch,4,14,28.6%,1.5
+17,l8games merch,2,10,20.0%,3.2
+17,polo g merch,1,139,0.7%,11.5
+17,gray still plays merch,5,38,13.2%,7.0
+17,yotube merch,2,19,10.5%,1.4
+17,flutter merch,6,16,37.5%,2.6
+17,joogie merch,5,89,5.6%,3.6
+17,ronald merch,1,74,1.4%,7.2
+17,fe4rless merch,1,86,1.2%,10.4
+17,a for adley merch,1,28,3.6%,10.0
+17,thatyoutub3family merch,1,13,7.7%,10.9
+17,yourube merch,9,83,10.8%,1.7
+17,kubernetes merch,1,19,5.3%,9.3
+17,sub2willne merch,1,5,20.0%,9.2
+17,yputube merch,1,8,12.5%,1.6
+18,구글 머천다이즈,33,49,67.3%,1.0
+18,구글 머천다이즈 스토어,4,10,40.0%,1.0
+19,flutter merchandise,14,47,29.8%,2.4
+19,merchandise online shop,1,1,100.0%,5.0
+19,go merchandise,1,37,2.7%,2.5
+19,merchandise,5,4892,0.1%,18.9
+19,jazzybum merchandise,124,285,43.5%,1.0
+19,merchandise shop,4,384,1.0%,13.1
+19,merchandise water bottles,1,12,8.3%,7.3
+19,merchandise cap,1,6,16.7%,8.8
+19,laser beam merchandise,4,248,1.6%,9.3
+19,tumbler merchandise,1,22,4.5%,8.7
+19,try channel merchandise,1,5,20.0%,10.0
+19,merchandise clothing,2,159,1.3%,8.1
+19,clothing merchandise,3,202,1.5%,6.6
+19,shop merchandise,1,59,1.7%,6.1
+19,baby merchandise,1,125,0.8%,21.5
+19,the meme sheep merchandise,1,4,25.0%,10.5
+19,merchandise clothes,1,46,2.2%,5.5
+19,the office merchandise india,1,12,8.3%,18.8
+19,merchandise. com,1,15,6.7%,2.9
+19,dinosaur merchandise,1,51,2.0%,14.8
+19,buy merchandise,1,154,0.6%,6.2
+19,merchandise accessories,1,11,9.1%,2.7
+19,tripolar merchandise,1,21,4.8%,7.0
+19,kubernetes merchandise,2,53,3.8%,6.3
+19,hat merchandise,2,29,6.9%,4.0
+19,adley merchandise,2,29,6.9%,7.0
+19,albert flamingo merchandise,2,62,3.2%,11.5
+19,sweatshirt merchandise,2,32,6.3%,11.4
+19,merchandise hoodies,1,59,1.7%,25.6
+19,qkids merchandise,1,30,3.3%,6.1
+20,गूगल पैड,1,53,1.9%,2.2
+20,dinosaur game,1,576,0.2%,80.0
+20,اندرويد شوب,1,3,33.3%,7.7
+20,tou.tube,1,4,25.0%,29.0
+20,robertsonmarketing,1,2,50.0%,15.5
+20,campus bike,1,100,1.0%,8.4
+20,bamboo holder,1,85,1.2%,13.3
+20,campus collection,1,151,0.7%,8.1
+20,2pack,1,120,0.8%,18.4
+20,lapel pin,1,3,33.3%,164.3
+20,shrome://dino,1,3,33.3%,7.0
+20,notebook set,1,246,0.4%,11.7
+20,グーグル tシャツ,1,9,11.1%,5.3
+20,crome dinosour,1,49,2.0%,10.1
+20,shopby,1,54,1.9%,10.2
+20,stickers,1,3563,0.0%,55.6
+20,logo ggo,1,1,100.0%,39.0
+20,will be shipped within,1,31,3.2%,9.6
+20,enjoy mug,1,1,100.0%,13.0
+20,puzzlebot,2,72,2.8%,7.0
+20,グーグルマーチャンダイズストア,4,9,44.4%,1.0
+20,гугл мерч,6,45,13.3%,3.0
+20,mouse pad,3,1672,0.2%,44.5
+20,thermal bottle,9,2302,0.4%,9.2
+20,morebags,2,13,15.4%,1.3
+20,구글머천다이즈스토어,11,15,73.3%,1.0
+20,yuotube.com ph,1,23,4.3%,10.5
+20,warm gear,5,458,1.1%,10.7
+20,यूट्यूब स्टोर,1,21,4.8%,8.7
+20,noogler,1,186,0.5%,14.7
+20,구글머천다이즈,14,17,82.4%,1.0
+20,متجر يوتيوب,1,8,12.5%,8.3
+20,red yutube,1,4,25.0%,16.0
+20,bugdroid toy,2,7,28.6%,9.9
+21,_dc_gtm cookie,1,7,14.3%,9.6
+22,goigle shop,1,26,3.8%,8.5
+22,tube shop,1,4,25.0%,7.8
+22,figure shop,1,21,4.8%,45.6
+22,jutjub shop,3,142,2.1%,7.5
+22,apo shop,1,10,10.0%,9.9
+23,utility backpacks,1,96,1.0%,5.2
+23,utility backpack,1,1156,0.1%,1.7
+24,black tee,5,3384,0.1%,3.5
+24,tee black,1,151,0.7%,5.2
+24,red tee,1,451,0.2%,3.9
+24,black sherpa vest,1,131,0.8%,1.7
+25,g_enabled_idps,9,125,7.2%,2.9
+25,g_enabled_idps cookie,1,16,6.3%,3.1
+26,gcp swags,1,5,20.0%,11.2
+26,gcp swag,4,19,21.1%,5.2

@@ -1,0 +1,64 @@
+---
+title: "Effect of sample size mismatch on power"
+output: html_notebook
+---
+
+```{r}
+# How does a mismatch in sample sizes for a continuous metric affect power of a t-test?
+# From https://stats.stackexchange.com/questions/31326/how-should-one-interpret-the-comparison-of-means-from-different-sample-sizes/31330#31330
+set.seed(9)                            
+
+power5050 = vector(length=10000)       # these will store the p-values from each 
+power7525 = vector(length=10000)       # simulated test to keep track of how many 
+power9010 = vector(length=10000)       # are 'significant'
+
+for(i in 1:10000){                     # I run the following procedure 10k times
+
+  n1a = rnorm(500, mean=0,  sd=1)       # I'm drawing 2 samples of size 50 from 2 normal
+  n2a = rnorm(500, mean=.3, sd=1)       # distributions w/ dif means, but equal SDs
+
+  n1b = rnorm(750, mean=0,  sd=1)       # this version has group sizes of 75 & 25
+  n2b = rnorm(250, mean=.3, sd=1)
+
+  n1c = rnorm(900, mean=0,  sd=1)       # this one has 90 & 10
+  n2c = rnorm(100, mean=.3, sd=1)
+
+  power5050[i] = t.test(n1a, n2a, var.equal=T)$p.value         # here t-tests are run &
+  power7525[i] = t.test(n1b, n2b, var.equal=T)$p.value         # the p-values are stored
+  power9010[i] = t.test(n1c, n2c, var.equal=T)$p.value         # for each version
+}
+
+print(mean(power5050<.05))
+print(mean(power7525<.05))
+print(mean(power9010<.05))
+```
+
+```{r}
+# How does a mismatch in sample sizes for a proportion metric affect power of a z-test?
+set.seed(9)                           
+
+power5050 = vector(length=10000)       
+power7525 = vector(length=10000)       
+power9010 = vector(length=10000)       
+
+for(i in 1:10000){                     
+
+  n1a = rbinom(5000, 1,  0.1)      
+  n2a = rbinom(5000, 1,  0.125)      
+
+  n1b = rbinom(7500, 1,  0.1)      
+  n2b = rbinom(2500, 1,  0.125) 
+
+  n1c = rbinom(9000, 1,  0.1)      
+  n2c = rbinom(1000, 1,  0.125) 
+
+  power5050[i] = prop.test(x = c(sum(n1a),sum(n2a)), n = c(5000,5000))$p.value         
+  power7525[i] = prop.test(x = c(sum(n1b),sum(n2b)), n = c(7500,2500))$p.value         
+  power9010[i] = prop.test(x = c(sum(n1c),sum(n2c)), n = c(9000,1000))$p.value         
+}
+
+print(mean(power5050<.05))
+print(mean(power7525<.05))
+print(mean(power9010<.05))
+```
+# The lesson in both cases is: stick to even sample sizes in A/B tests wherever possible!

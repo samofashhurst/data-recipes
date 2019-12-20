@@ -14,8 +14,8 @@ Python
   * Using Scrapy to gather product review data
   * Analysing product review data using descriptive statistics and natural language processing
 * Social
-  * Download tweets using the Twitter API
-  * Download page comments using the Facebook Graph API
+  * Download tweets using the Twitter API; sentiment analysis
+  * Download page comments using the Facebook Graph API; sentiment analysis
 * Stats
   * Learning about the beta distribution
   * General playground for exploring Pandas, Matplotlib, basic statistics etc.

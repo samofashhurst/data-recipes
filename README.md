@@ -47,3 +47,4 @@ Google Sheets
 8. Drag Formula Right and Read Column Down: https://docs.google.com/spreadsheets/d/1aJNvgM3ci6qIEL06xULQN6Ibda5LrK4PRe7HlcLccNI/edit?usp=sharing
 9. Geo Chart: https://docs.google.com/spreadsheets/d/1nYViS9U5Cp_17sugEbB-v6FvKtd8b7XXT52euCK7EWY/edit?usp=sharing
 10. Sample Ratio Mismatch Calculator: https://docs.google.com/spreadsheets/d/1Lnfqu-zANL2Kc2S7UUfcwbMbJV_h-IZ9yKLPKL6fwpI/edit?usp=sharing
+11. A/B ... N Calculator: https://docs.google.com/spreadsheets/d/1Wcspsnt154rtO7j2hF1fYO0Z-knvC-8Zf3AomvqKM28/edit?usp=sharing

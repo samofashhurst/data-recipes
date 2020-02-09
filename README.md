@@ -33,6 +33,7 @@ R
 * Venn
   * Draw up to 7-way Venn diagrams - impress your friends!
 * Simulation of sample size mismatch effects on power in A/B tests
+* Simulation for demonstrating the Monty Hall problem
 
 Google Sheets
 =============

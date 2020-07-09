@@ -1,0 +1,36 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+install.packages("googleAuthR")
+install.packages("searchConsoleR")
+library(googleAuthR)
+library(searchConsoleR)
+
+scr_auth()
+```
+
+```{r}
+website <- "SITE"
+start <- Sys.Date() - 3
+end <- Sys.Date() - 3
+type <- c('web')
+download_dimensions <- c('page','query')
+
+data <- search_analytics(siteURL = website,
+          startDate = start,
+          endDate = end,
+          dimensions = download_dimensions,
+          searchType = type, rowLimit = 500000, 
+          dimensionFilterExp = c("country==USA")
+        )
+```
+
+```{r}
+reduced <- data[data$clicks > 0,]
+colnames(reduced) <- c('Pages','Query','Clicks','Impressions','CTR','Position')
+write.csv(reduced,"PATH.csv",row.names=FALSE)
+```
+

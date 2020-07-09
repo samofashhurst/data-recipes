@@ -1,0 +1,26 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Be aware of terms of service before using.
+
+```{r}
+library(dplyr)
+library(rvest)
+
+q <- "your query here"
+n <- 20
+
+sites = c()
+while(length(sites) < n) {
+  start <- length(sites) + 1
+  u <- paste("https://www.google.com/search?q=",gsub(" ","+",q),"&start=",start,sep="")
+  webpage <- read_html(u)
+  links <- webpage %>% html_nodes(xpath='//h3/ancestor::a')
+  hrefs <- links %>% html_attr("href")
+  sites <- c(sites,str_extract(hrefs,"(https://|http://).*?/"))
+}
+sites <- sites[1:n]
+sites
+```

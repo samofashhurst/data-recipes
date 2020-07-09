@@ -6,6 +6,7 @@ Python
 ======
 
 * Clustering
+  * Applying k-means clustering to sample banknote data
   * Applying k-means clustering to SEO using sample data from Google Search Console
 * Marketing APIs
   * Google Analytics
@@ -26,10 +27,13 @@ R
 
 * Marketing APIs
   * Google Analytics
+  * Google Search Console
   * Salesforce using SOQL
 * Sankey
   * Plot Sankey diagrams e.g. for seeing common paths between pages during a browser session
   * Data preperation for plotting Sankey diagrams using GA data
+* Scraping
+  * Search Results
 * Venn
   * Draw up to 7-way Venn diagrams - impress your friends!
 * Simulation of sample size mismatch effects on power in A/B tests
